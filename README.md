@@ -1,86 +1,115 @@
-📊 Financial Analysis Summary
-Analysis of Revenue and Net Income Growth (2022-2024)
-This dataset provides the revenue and net income growth for three companies: Microsoft, Apple, and Tesla, from 2022 to 2024. Key observations:
+# 📊 Financial Analysis: Revenue & Net Income Growth (2022–2024)
 
-Microsoft:
+This project presents a comprehensive financial analysis of **Apple**, **Microsoft**, and **Tesla** across the years 2022 to 2024. Using historical financial data, we explored revenue and net income trends, growth percentages, and key performance insights across three fiscal years.
 
-Revenue growth is consistently positive, showing significant improvement from 6.88% in 2023 to 15.67% in 2024.
-Net income growth is negative in 2023 but recovers with a strong 21.80% growth in 2024.
-Apple:
+---
 
-The company saw a decline in revenue and net income in 2023 with a -2.80% and -2.81% growth, respectively.
-In 2024, Apple experienced a mild recovery in revenue growth at 2.02%, though net income growth continued to decline at -3.36%.
-Tesla:
+## 🧾 Dataset Overview
 
-Tesla's revenue growth surged in 2023 at 18.80% and remained positive in 2024 at 0.95%.
-Net income growth was strong in 2023 at 18.96%, but sharply declined by -52.23% in 2024.
-This analysis highlights the varying financial health of the companies, with Microsoft showing strong recovery, Apple facing challenges in growth, and Tesla experiencing fluctuating results.
+The dataset includes:
+- Yearly revenue and net income data (2022–2024)
+- Growth rates calculated year-over-year
+- Summary statistics and comparisons
 
-Total Revenue and Net Income Analysis (2022-2024)
-The table below summarizes the total revenue and net income for Apple, Microsoft, and Tesla over the 2022–2024 period:
+---
 
-Apple generated the highest total revenue (1,168,648) and also led in net income (290,534), indicating strong financial performance.
-Microsoft followed with 655,307 in revenue and 233,235 in net income, showing high profitability relative to its revenue.
-Tesla had the lowest total revenue (275,925) and net income (34,714), reflecting its smaller scale compared to Apple and Microsoft.
-Overall, Apple dominates in both metrics, while Microsoft maintains strong profitability. Tesla, although growing, lags behind in scale and earnings.
+## 🔍 Key Findings
 
-📈 Growth Trends (Average Revenue and Net Income Growth)
-This section analyzes the average year-on-year growth in both revenue and net income for each company:
+### 📈 Revenue and Net Income Growth (YoY)
 
-Microsoft showed the strongest overall financial growth, with an impressive 11.28% average revenue growth and 10.64% average net income growth. This indicates consistent business expansion and profitability.
+#### **Microsoft**
+- 📈 Revenue Growth: Improved from **6.88% (2023)** to **15.67% (2024)**
+- 💰 Net Income Growth: Recovered from **-0.52% (2023)** to **21.80% (2024)**
 
-Tesla experienced a high average revenue growth of 9.87%, which signals strong top-line performance. However, its net income growth was negative at -16.63%, suggesting rising costs or operational inefficiencies impacting profitability despite growing revenues.
+#### **Apple**
+- 📉 Revenue & Net Income dipped in 2023: **-2.80%** and **-2.81%**
+- 🛑 2024: Slight revenue rebound (**2.02%**) but further decline in net income (**-3.36%**)
 
-Apple, on the other hand, saw a slight average revenue decline of -0.39% and net income decline of -3.09%, indicating relative stagnation or a period of slower growth during the analyzed years.
+#### **Tesla**
+- 🚀 2023: Strong growth in revenue (**18.80%**) and net income (**18.96%**)
+- ⚠️ 2024: Revenue slowed to **0.95%**, net income dropped drastically to **-52.23%**
 
-✅ Summary:
+---
 
-Microsoft is currently the most balanced performer, showing solid growth in both sales and profit.
-Tesla is growing rapidly in revenue but is struggling with profitability.
-Apple had a more stable or plateauing trend with modest decreases in both metrics.
-Year-wise Net Income Growth Analysis (2022-2024)
-This breakdown highlights the yearly changes in net income growth for Apple, Microsoft, and Tesla:
+## 📊 Total Revenue & Net Income (2022–2024)
 
-Apple showed consecutive declines in net income growth: -2.81% in 2023 and -3.36% in 2024, indicating a downward profitability trend.
-Microsoft experienced a small decline in 2023 (-0.52%), followed by a strong recovery in 2024 (21.80%).
-Tesla had a significant positive growth in 2023 (18.96%), but faced a drastic drop in 2024 (-52.23%), reflecting financial volatility.
-Overall, Microsoft showed notable improvement, Apple faced ongoing decline, and Tesla exhibited instability in net income growth.
+| Company   | Total Revenue | Total Net Income |
+|-----------|----------------|------------------|
+| **Apple**     | 1,168,648        | 290,534            |
+| **Microsoft** | 655,307          | 233,235            |
+| **Tesla**     | 275,925          | 34,714             |
 
-Max and Min Revenue & Net Income (2022-2024)
-This table shows the maximum and minimum total revenue and net income for Apple, Microsoft, and Tesla over three years:
+- 🥇 **Apple** leads in total revenue and profit.
+- 📌 **Microsoft** shows strong profitability relative to revenue.
+- 🌱 **Tesla** has the lowest figures, showing growth potential.
 
-Apple reported the highest revenue (394,328) and net income (99,803) among all companies, with relatively small variation, indicating consistent performance.
-Microsoft had a revenue range from 198,270 to 245,122, and net income between 72,361 and 88,136, showing stable but lower figures than Apple.
-Tesla displayed the lowest figures across both metrics, with revenue between 81,462 and 97,690, and net income from 7,153 to 14,974, reflecting its smaller scale and profitability.
-Overall, Apple leads in both revenue and earnings, while Tesla remains the smallest and most variable performer.
+---
 
-Company Revenue and Net Income Summary
-Apple has the highest maximum revenue (394,328) and net income (99,803) among all companies, showing strong financial performance.
-Microsoft shows consistent performance with high revenue (max: 245,122, min: 198,270) and net income (max: 88,136, min: 72,361), indicating stability.
-Tesla has the lowest figures across both revenue (max: 97,690) and net income (max: 14,974), reflecting its comparatively smaller scale.
-This summary highlights Apple's dominance, Microsoft's consistency, and Tesla's growth potential.
+## 📊 Average Growth Rates (2022–2024)
 
-📊 Executive Financial Summary (2022–2024)
-Net Income Growth Trends
+| Company   | Avg. Revenue Growth | Avg. Net Income Growth |
+|-----------|---------------------|--------------------------|
+| **Microsoft** | 11.28%                | 10.64%                     |
+| **Tesla**     | 9.87%                 | -16.63%                    |
+| **Apple**     | -0.39%                | -3.09%                     |
 
-Microsoft exhibited the strongest profitability trajectory, rebounding from a slight dip in 2023 (−0.52%) to a significant growth of +21.80% in 2024, indicating effective operational and strategic execution.
+- ✅ **Microsoft** is the most balanced in growth and profitability.
+- ⚡ **Tesla** is growing fast but struggling with cost control.
+- 🧭 **Apple** is currently experiencing stagnation in growth.
 
-Apple faced consistent downward pressure on profitability, with net income growth declining −2.81% in 2023 and −3.36% in 2024, reflecting potential margin compression or rising costs.
+---
 
-Tesla experienced a sharp fluctuation, posting strong growth of +18.96% in 2023, followed by a steep decline of −52.23% in 2024—highlighting volatility in earnings and potential instability.
+## 📅 Year-wise Net Income Growth Breakdown
 
-Revenue and Profit Performance Ranges
+| Year | Apple   | Microsoft | Tesla   |
+|------|---------|-----------|---------|
+| 2023 | -2.81%  | -0.52%    | 18.96%  |
+| 2024 | -3.36%  | 21.80%    | -52.23% |
 
-Apple maintained leadership in scale and consistency, recording the highest total revenue and net income across the period. Revenue ranged from 383K to 394K, and net income from 98K to 100K, indicating strong financial resilience.
+---
 
-Microsoft demonstrated solid and stable performance, with revenue between 198K and 245K, and net income ranging from 72K to 88K, reflecting steady growth.
+## 🔺 Max & Min Revenue/Net Income (2022–2024)
 
-Tesla remained the smallest in scale, with revenue ranging from 81K to 98K, and net income between 7K and 15K, showcasing growth potential but with significant earnings variability.
+| Company   | Max Revenue | Min Revenue | Max Net Income | Min Net Income |
+|-----------|-------------|-------------|----------------|----------------|
+| Apple     | 394,328     | 383,285     | 99,803         | 98,950         |
+| Microsoft | 245,122     | 198,270     | 88,136         | 72,361         |
+| Tesla     | 97,690      | 81,462      | 14,974         | 7,153          |
 
-Strategic Insights
+---
 
-Apple leads in overall revenue and profitability, backed by consistent performance and strong margins.
+## 🧠 Strategic Insights
 
-Microsoft reflects operational stability and effective revenue-to-profit conversion, particularly in 2024.
+- **Apple** leads in both total revenue and earnings but faces declining growth.
+- **Microsoft** shows operational strength and steady profit recovery.
+- **Tesla** has high revenue growth potential but extreme net income volatility.
 
-Tesla while dynamic in growth, displays financial volatility—suggesting a need for better cost controls and margin management to achieve sustainable profitability.
+---
+
+## 📌 Conclusion
+
+This analysis provides a detailed view of financial health across top tech companies:
+- Microsoft: Balanced and steadily improving.
+- Apple: Strong but currently plateauing.
+- Tesla: High growth, high volatility.
+
+---
+
+## 🗂 Files Included
+
+- `financial_data.csv` — Cleaned dataset used for analysis
+- `financial_analysis_summary.pdf` — Visual summaries and graphs
+- `README.md` — Project overview and documentation (this file)
+
+---
+
+## 💬 Connect With Me
+
+Created by **Pratyush Pr. Borah**  
+📧 Email: pratyushborah23@gmail.com 
+🔗 LinkedIn: [linkedin.com/in/your-profile] https://www.linkedin.com/in/pratyush-borah-9b89282a6/
+
+If you found this useful, feel free to ⭐ the repo or share on [LinkedIn].
+
+
+---
